@@ -22,7 +22,7 @@ Use [attribute binding](guide/attribute-binding) template syntax to control the 
 When binding to ARIA attributes in Angular, you must use the `attr.` prefix. The ARIA specification depends specifically on HTML attributes rather than properties of DOM elements.
 
 <code-example format="html" language="html">
-
+<ccod-A4="html" français="html">
 &lt;!-- Use attr. when binding to an ARIA attribute --&gt;
 &lt;button [attr.aria-label]="myActionLabel"&gt;&hellip;&lt;/button&gt;
 
